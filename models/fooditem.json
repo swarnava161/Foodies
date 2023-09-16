@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Thai Delights",
+    "foodItems": [
+      {
+        "name": "Pad Thai",
+        "description": "A famous Thai stir-fried noodle dish with shrimp, tofu, bean sprouts, and peanuts in a sweet and tangy sauce.",
+        "price": [1299],
+        "image": "https://tse3.mm.bing.net/th?id=OIP.27ZnwCqvzfX316LxBELDvAHaE8&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Green Curry",
+        "description": "A Thai curry made with coconut milk, green curry paste, vegetables, and a choice of meat. Served with steamed rice.",
+        "price": [1499],
+        "image": "https://tse4.mm.bing.net/th?id=OIP.o_eEszOxRUbbOZMqiBAs1AHaHa&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Tom Yum Soup",
+        "description": "A hot and sour Thai soup with shrimp, mushrooms, lemongrass, and Thai herbs. A flavorful and aromatic soup.",
+        "price": [999],
+        "image": "https://tse3.mm.bing.net/th?id=OIP.yD3kttx8xVV8HHsPCTsfCwHaE8&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Pad See Ew",
+        "description": "Stir-fried wide rice noodles with broccoli, egg, and a choice of meat in a sweet soy sauce.",
+        "price": [1199],
+        "image": "https://tse1.mm.bing.net/th?id=OIP.uu1GA5rhSIER33Z014aSdwHaE-&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Red Curry",
+        "description": "A Thai curry made with coconut milk, red curry paste, bell peppers, bamboo shoots, and a choice of meat. Served with steamed rice.",
+        "price": [1399],
+        "image": "https://tse3.mm.bing.net/th?id=OIP.go5uIyqHxkmEIlAL-njUQwHaEz&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Som Tum (Papaya Salad)",
+        "description": "A spicy and tangy Thai salad made from shredded green papaya, chili, tomatoes, lime juice, and peanuts.",
+        "price": [899],
+        "image": "https://tse1.mm.bing.net/th?id=OIP.bUJmSfrFqhWo4Wta9fFU8QHaFT&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Massaman Curry",
+        "description": "A rich and aromatic Thai curry with coconut milk, potatoes, peanuts, and a choice of meat. Served with steamed rice.",
+        "price": [1499],
+        "image": "https://tse2.mm.bing.net/th?id=OIP.8LrQ7yW47cFskCDotVjdjQHaJQ&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Thai Basil Chicken",
+        "description": "Stir-fried ground chicken with Thai basil, garlic, chili, and soy sauce. Served with steamed rice and a fried egg.",
+        "price": [1099],
+        "image": "https://tse4.mm.bing.net/th?id=OIP.yvqVVAbCS3Qbxkk2kBbwvQHaE7&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Coconut Soup (Tom Kha Gai)",
+        "description": "A creamy and aromatic Thai soup made with coconut milk, chicken, galangal, and kaffir lime leaves.",
+        "price": [999],
+        "image": "https://tse1.mm.bing.net/th?id=OIP.7EYJkIsRqSTG6DAwzhvlrgHaE8&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      },
+      {
+        "name": "Thai Mango Sticky Rice",
+        "description": "A popular Thai dessert made with glutinous rice, fresh mango slices, and sweet coconut cream.",
+        "price": [799],
+        "image": "https://tse4.mm.bing.net/th?id=OIP.0eNwW9KDLcde7QtucQsU6gHaE8&pid=Api&P=0&h=180",
+        "sizes": ["Standard"]
+      }
+    ]
+  }
+]
