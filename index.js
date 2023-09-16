@@ -7,10 +7,11 @@ const userOrderRoute = require('./routes/userOrderRoute');
 
 const foodDataRoute = require('./routes/foodDataRoute');
 const userCartRoute = require('./routes/userCartRoute');
-const app = express();
-connectDB();
 // Load environment variables from a .env file
 dotenv.config();
+const app = express();
+connectDB();
+
 
 // Middleware
 app.use(

@@ -1,6 +1,6 @@
 {
     "env":
     {
-        "db_name":"zomato"
+       " MONGODB_URI":"mongodb+srv://swarnava7122000:jLUn9WskY42WXGP9@cluster0.q7b0cvp.mongodb.net/zomato?retryWrites=true&w=majority"
     }
 }
