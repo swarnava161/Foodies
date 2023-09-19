@@ -16,7 +16,7 @@ connectDB();
 // Middleware
 app.use(
     cors({
-      origin: 'https://Swarnava-Chakraborty-Foodies.netlify.app', // Replace with your frontend domain
+      origin: 'https://foodies-swarnava-chakraborty.netlify.app', // Replace with your frontend domain
       methods: 'GET,POST,PUT,DELETE',
       allowedHeaders: 'Content-Type,Authorization',
     })
