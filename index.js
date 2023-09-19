@@ -16,7 +16,7 @@ connectDB();
 // Middleware
 app.use(
     cors({
-      origin: 'http://localhost:3000', // Replace with your frontend domain
+      origin: 'https://6509640808aa413a8c900d15--joyful-kelpie-259891.netlify.app/', // Replace with your frontend domain
       methods: 'GET,POST,PUT,DELETE',
       allowedHeaders: 'Content-Type,Authorization',
     })
